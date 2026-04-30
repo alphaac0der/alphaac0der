@@ -1,6 +1,12 @@
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi%2C+I'm+Irtiza+Khan+Labib+%F0%9F%91%8B;Designer.+Builder.+Writer.)](https://git.io/typing-svg)
-
+<br>
+<p dir="rtl" align="center" style="font-size:26px; letter-spacing:2px;">
+وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ
+</p>
+<p align="center"><i>"And that there is not for man except that for which he strives."</i><br>
+<sub>— Surah An-Najm, 53:39</sub></p>
+<br>
+---
 
 ### Irtiza Khan Labib
 
@@ -8,7 +14,7 @@
 
 *Designing things people actually want to use. Writing things people actually want to read.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/labib-uiux/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/labib-uiux/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://betweenmeandallah.substack.com/)
 [![Discord](https://img.shields.io/badge/UXigo_Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/2CPErXtSFR)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:labibkhan.uiux@gmail.com)
