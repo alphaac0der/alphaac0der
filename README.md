@@ -4,14 +4,14 @@
 
 ### Irtiza Khan Labib
 
-**UI/UX Designer · COO @ Dreabuild · Community Builder**
+**UI/UX Designer · COO @ Dreabuild · Product Designer**
 
 *Designing things people actually want to use. Writing things people actually want to read.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alphaac0der)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@labib)
-[![Discord](https://img.shields.io/badge/UXigo_Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uxigo)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:labibkhan66410@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/labib-uiux/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://betweenmeandallah.substack.com/)
+[![Discord](https://img.shields.io/badge/UXigo_Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/2CPErXtSFR)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:labibkhan.uiux@gmail.com)
 
 </div>
 
@@ -30,12 +30,11 @@ By night → writing about Islam, running a design community, and slowly re-lear
 
 ## What I'm Up To
 
-- 🏗️ **Building** — [Find Your Name in Quran](https://findyournameinquran.com), a free web app with zero-cost architecture
-- ✍️ **Writing** — Islamic content on [Substack](https://substack.com/@labib) (English) & Facebook (Bangla)
-- 🎙️ **Podcasting** — reflective writing with Quran recitation
+- 🏗️ **Building** — An e-commerce store builder that makes setting up an online store stupidly simple
+- ✍️ **Writing** — Islamic content on [Substack](https://betweenmeandallah.substack.com/) (English) 
+- 🎙️ **Podcasting** — Reflective writing with Quran recitation
 - 🧑‍💻 **Relearning** — HTML, CSS, JS, React (the basics, with purpose this time)
-- 🌱 **Building** — [UXigo](https://discord.gg/uxigo), a Discord community for designers who care about growth
-
+- 🌱 **Building** — [UXigo](https://discord.gg/2CPErXtSFR), a Discord community for designers who care about growth
 ---
 
 ## What I Do at Dreabuild
