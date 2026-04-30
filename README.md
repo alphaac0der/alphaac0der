@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Irtiza Khan Labib</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Chief Operating Officer at Dreabuild</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alphaac0der&label=Profile%20views&color=4DC71F&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-22-brighteen"/> 
