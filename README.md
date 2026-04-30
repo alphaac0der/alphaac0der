@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://postimg.cc/PCpX1DHT"></img>
+<img src="[image-url](https://postimg.cc/PCpX1DHT)" alt="Alt text">
 ---
 
 ### Irtiza Khan Labib
