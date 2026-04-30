@@ -14,7 +14,7 @@
 
 *Designing things people actually want to use. Writing things people actually want to read.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/labib-uiux/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/labib-uiux/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://betweenmeandallah.substack.com/)
 [![Discord](https://img.shields.io/badge/UXigo_Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/2CPErXtSFR)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:labibkhan.uiux@gmail.com)
