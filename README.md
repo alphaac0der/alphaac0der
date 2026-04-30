@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Irtiza Khan Labib</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=labibkhanofficialbd&label=Profile%20views&color=4DC71F&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alphaac0der&label=Profile%20views&color=4DC71F&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-22-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
@@ -13,7 +13,7 @@
      </p>
 
  <p align="center" >
-  <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=labibkhanofficialbd&column=8&theme=onedark&no-frame=true"/>
+  <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=alphaac0der&column=8&theme=onedark&no-frame=true"/>
 </p>
 
 - 🔭 I’m currently working on **Frontend Development**
@@ -74,10 +74,10 @@
 
 <h4 align="center">Top langs :tongue: :</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=labibkhanofficialbd&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaac0der&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=labibkhanofficialbd&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="labibkhanofficialbd" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphaac0der&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="alphaac0der" /></p>
 
   <br/>
-   <img alt="Irtiza Khan Labib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=labibkhanofficialbd&custom_title=Irtiza%20Khan%20Labib's%20Contribution%20Graph&theme=react-dark" />
+   <img alt="Irtiza Khan Labib's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alphaac0der&custom_title=Irtiza%20Khan%20Labib's%20Contribution%20Graph&theme=react-dark" />
   <br/>
