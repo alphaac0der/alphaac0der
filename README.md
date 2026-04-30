@@ -1,81 +1,119 @@
-<h1 align="center">Hi I'm Irtiza Khan Labib</h1>
-<h3 align="center">Chief Operating Officer at Dreabuild</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alphaac0der&label=Profile%20views&color=4DC71F&style=flat" alt="labibkhanoffciailbd" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/badge/Age-22-brighteen"/> 
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/badge/Focus-Frontend-brighteen"/> 
-  </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/badge/Living-Brahmanbaria-brighteen"/> 
-  </a>
-     </p>
-
- <p align="center" >
-  <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=alphaac0der&column=8&theme=onedark&no-frame=true"/>
-</p>
-
-- 🔭 I’m currently working on **Frontend Development**
-
-- 🌱 I’m currently learning **HTML,CSS,JS,React**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 🤝 I’m looking for help with **html/css/js, Frondend development**
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **labibkhan66410@gmail.com**
-
-- ⚡ Fun fact **I am too lazy**
-
-<h3 align="center">Connect with me:</h3>
-
-<h3 align="center">
-    
-[![Facebook](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/labibofficialbd/)
-[![Instagram](https://img.shields.io/badge/-Instagram-1A1B27?style=flat&logo=instagram&labelColor=252526)](https://www.instagram.com/labiib_28/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1A1B27?style=flat&logo=twitter&labelColor=252526)](https://www.twitter.com/labibofficialbd/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-1A1B27?style=flat&logo=linkedin&labelColor=242424)](https://www.linkedin.com/in/labibofficialbd/)
-[![Snapchat](https://img.shields.io/badge/-Snapchat-1A1B27?style=flat&logo=snapchat&labelColor=242424)](https://www.snapchat.com/add/labibkhan2002)
-
-</h3>
-
-<h3 align="center">Languages and Tools:</h3>
-
-<h3 align="center">
-    
-![HTML5](https://img.shields.io/badge/-HTML5-1A1B27?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-1A1B27?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1A1B27?style=flat&logo=javascript&labelColor=252526)
-![React](https://img.shields.io/badge/-React-1A1B27?style=flat&logo=react&labelColor=252526)
-![Redux](https://img.shields.io/badge/-Redux-1A1B27?style=flat&logo=redux&logoColor=764ABC&labelColor=252526)
-![Nodejs](https://img.shields.io/badge/-Nodejs-1A1B27?style=flat&logo=Node.js&labelColor=252526)
-![Figma](https://img.shields.io/badge/-Figma-1A1B27?style=flat&logo=Figma&labelColor=252526)
-![Dart](https://img.shields.io/badge/-Dart-1A1B27?style=flat&logo=Dart&logoColor=00BEAD&labelColor=252526)
-![Flutter](https://img.shields.io/badge/-Flutter-1A1B27?style=flat&logo=Flutter&logoColor=29B0EE&labelColor=252526)
-![MongoDB](https://img.shields.io/badge/-MongoDB-1A1B27?style=flat&logo=mongodb&labelColor=252526)
-![Sass](https://img.shields.io/badge/-Sass-1A1B27?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap-1A1B27?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-1A1B27?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-1A1B27?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=252526)
-![JSON](https://img.shields.io/badge/-JSON-1A1B27?style=flat&logo=JSON&logoColor=ffffff&labelColor=252526)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-1A1B27?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=252526)
-![Git](https://img.shields.io/badge/-Git-1A1B27?style=flat&logo=git&logoColor=F05032&labelColor=252526)
-![GitHub](https://img.shields.io/badge/-GitHub-1A1B27?style=flat&logo=github&logoColor=ffffff&labelColor=252526)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-1A1B27?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![NPM](https://img.shields.io/badge/-npm-1A1B27?style=flat&logo=npm&labelColor=252526)
-![ESlint](https://img.shields.io/badge/-ESlint-1A1B27?style=flat&logo=ESlint&labelColor=4B32C3)
-![Windows](https://img.shields.io/badge/-Windows-1A1B27?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
-</h3>
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi%2C+I'm+Irtiza+Khan+Labib+%F0%9F%91%8B;Designer.+Builder.+Writer.)](https://git.io/typing-svg)
 
 
-<h4 align="center">Top langs :tongue: :</h4>
+### Irtiza Khan Labib
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaac0der&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+**UI/UX Designer · COO @ Dreabuild · Community Builder**
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphaac0der&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="alphaac0der" /></p>
+*Designing things people actually want to use. Writing things people actually want to read.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alphaac0der)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@labib)
+[![Discord](https://img.shields.io/badge/UXigo_Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uxigo)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:labibkhan66410@gmail.com)
 
+</div>
+
+---
+
+## Who I Am
+
+I'm a Product Designer based in Bangladesh — currently serving as **COO & Co-Founder** of [Dreabuild](https://dreabuild.com), a digital agency building web products, design systems, and automation tools.
+
+I started as a programmer. Somewhere during the pandemic, I picked up design and never looked back. Now I'm revisiting code — not to become a developer again, but to understand the full picture of what I build.
+
+By day → designing digital products  
+By night → writing about Islam, running a design community, and slowly re-learning `console.log()`
+
+---
+
+## What I'm Up To
+
+- 🏗️ **Building** — [Find Your Name in Quran](https://findyournameinquran.com), a free web app with zero-cost architecture
+- ✍️ **Writing** — Islamic content on [Substack](https://substack.com/@labib) (English) & Facebook (Bangla)
+- 🎙️ **Podcasting** — reflective writing with Quran recitation
+- 🧑‍💻 **Relearning** — HTML, CSS, JS, React (the basics, with purpose this time)
+- 🌱 **Building** — [UXigo](https://discord.gg/uxigo), a Discord community for designers who care about growth
+
+---
+
+## What I Do at Dreabuild
+
+```
+Web Development  ·  UI/UX Design  ·  Automation  ·  SaaS Products
+```
+
+We're a small team that works on real problems for real clients. I handle product thinking, design, and the occasional ops chaos.
+
+---
+
+## Design Toolkit
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+</div>
+
+---
+
+## Code I'm (Re)Learning
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</div>
+
+> *"I'm not going back to being a programmer. I'm learning enough to be a dangerous designer."*
+
+---
+
+## Projects I'm Proud Of
+ 
+| Project | What It Is | Role |
+|---|---|---|
+| **[Borno.io](https://borno.io)** | NCTB Ai Chatbot | Product Designer |
+| **BloodLink** | Blood donation app | UI/UX Design |
+| **[Okkhor.com](https://okkhor.com)** | E-commerce Website | UI/UX Design |
+| **Amar Adalot** | Court/legal platform redesign | Project Leader |
+ 
+---
+
+## Beyond Design
+
+I write. Not just captions — actual reflective writing about faith.
+
+On **Substack** I share personal notes on Quranic surahs, du'a, and spiritual growth. My writing voice is intentionally warm — *a brother sharing what he's learned*, not a scholar giving a lecture.
+
+I also run **UXigo** — a Discord community for designers who want to grow, share resources, and actually study design craft together.
+
+---
+
+## A Few Things About Me
+
+- 📍 Brahmanbaria, Bangladesh
+- 🎓 Diploma in Computer Science & Technology — Brahmanbaria Polytechnic Institute
+- 🎓 UI/UX Guided Program — Ostad, Batch 42
+- 🕌 Muslim | Writing about faith publicly since 2024
+- 🎬 Cinephile
+- 💬 Best reached via [LinkedIn](https://linkedin.com/in/alphaac0der) or [email](mailto:labibkhan66410@gmail.com)
+
+---
+
+<div align="center">
+
+*If you're a designer, builder, or someone who cares about making things with intention — let's connect.*
+
+**[linkedin.com/in/alphaac0der](https://linkedin.com/in/alphaac0der)**
+
+</div>
