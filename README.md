@@ -1,11 +1,87 @@
 <div align="center">
-<br>
-<p dir="rtl" align="center" style="font-size:26px; letter-spacing:2px;">
-وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ
-</p>
-<p align="center"><i>"And that there is not for man except that for which he strives."</i><br>
-<sub>— Surah An-Najm, 53:39</sub></p>
-<br>
+<svg width="100%" viewBox="0 0 680 200" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Surah An-Najm 53:39</title>
+  <desc>Quran ayah banner: And that there is not for man except that for which he strives.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="50%" style="stop-color:#161b22"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c9a84c"/>
+      <stop offset="50%" style="stop-color:#f0d080"/>
+      <stop offset="100%" style="stop-color:#c9a84c"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1"/>
+      <stop offset="15%" style="stop-color:#0d1117;stop-opacity:0"/>
+      <stop offset="85%" style="stop-color:#0d1117;stop-opacity:0"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="680" height="200" fill="url(#bg)" rx="12"/>
+
+  <g opacity="0.07">
+    <g transform="translate(60,100)">
+      <polygon points="0,-28 16,-8 28,16 0,22 -28,16 -16,-8" fill="none" stroke="#c9a84c" stroke-width="0.8"/>
+      <polygon points="0,-18 10,-5 18,10 0,14 -18,10 -10,-5" fill="none" stroke="#c9a84c" stroke-width="0.5"/>
+      <line x1="0" y1="-28" x2="0" y2="28" stroke="#c9a84c" stroke-width="0.4"/>
+      <line x1="-28" y1="0" x2="28" y2="0" stroke="#c9a84c" stroke-width="0.4"/>
+      <line x1="-20" y1="-20" x2="20" y2="20" stroke="#c9a84c" stroke-width="0.4"/>
+      <line x1="20" y1="-20" x2="-20" y2="20" stroke="#c9a84c" stroke-width="0.4"/>
+      <circle cx="0" cy="0" r="6" fill="none" stroke="#c9a84c" stroke-width="0.6"/>
+    </g>
+    <g transform="translate(620,100)">
+      <polygon points="0,-28 16,-8 28,16 0,22 -28,16 -16,-8" fill="none" stroke="#c9a84c" stroke-width="0.8"/>
+      <polygon points="0,-18 10,-5 18,10 0,14 -18,10 -10,-5" fill="none" stroke="#c9a84c" stroke-width="0.5"/>
+      <line x1="0" y1="-28" x2="0" y2="28" stroke="#c9a84c" stroke-width="0.4"/>
+      <line x1="-28" y1="0" x2="28" y2="0" stroke="#c9a84c" stroke-width="0.4"/>
+      <line x1="-20" y1="-20" x2="20" y2="20" stroke="#c9a84c" stroke-width="0.4"/>
+      <line x1="20" y1="-20" x2="-20" y2="20" stroke="#c9a84c" stroke-width="0.4"/>
+      <circle cx="0" cy="0" r="6" fill="none" stroke="#c9a84c" stroke-width="0.6"/>
+    </g>
+    <g transform="translate(340,20)">
+      <polygon points="0,-14 8,-4 14,8 0,11 -14,8 -8,-4" fill="none" stroke="#c9a84c" stroke-width="0.6"/>
+      <circle cx="0" cy="0" r="3" fill="none" stroke="#c9a84c" stroke-width="0.5"/>
+    </g>
+    <g transform="translate(340,182)">
+      <polygon points="0,-14 8,-4 14,8 0,11 -14,8 -8,-4" fill="none" stroke="#c9a84c" stroke-width="0.6"/>
+      <circle cx="0" cy="0" r="3" fill="none" stroke="#c9a84c" stroke-width="0.5"/>
+    </g>
+  </g>
+
+  <line x1="100" y1="38" x2="580" y2="38" stroke="url(#gold)" stroke-width="0.6" opacity="0.4"/>
+  <circle cx="100" cy="38" r="2.5" fill="#c9a84c" opacity="0.5"/>
+  <circle cx="580" cy="38" r="2.5" fill="#c9a84c" opacity="0.5"/>
+  <circle cx="340" cy="38" r="2" fill="#f0d080" opacity="0.6"/>
+
+  <text x="340" y="92" text-anchor="middle"
+    font-family="'Scheherazade New', 'Amiri', 'Traditional Arabic', serif"
+    font-size="30" font-weight="400" fill="url(#gold)" letter-spacing="3">
+    وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ
+  </text>
+
+  <text x="340" y="128" text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="13.5" font-style="italic" fill="#d4b86a" opacity="0.85" letter-spacing="0.5">
+    "And that there is not for man except that for which he strives."
+  </text>
+
+  <text x="340" y="152" text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="11" fill="#8a7a55" letter-spacing="1.5">
+    — SURAH AN-NAJM  ·  53:39
+  </text>
+
+  <line x1="100" y1="168" x2="580" y2="168" stroke="url(#gold)" stroke-width="0.6" opacity="0.4"/>
+  <circle cx="100" cy="168" r="2.5" fill="#c9a84c" opacity="0.5"/>
+  <circle cx="580" cy="168" r="2.5" fill="#c9a84c" opacity="0.5"/>
+  <circle cx="340" cy="168" r="2" fill="#f0d080" opacity="0.6"/>
+
+  <rect width="680" height="200" fill="url(#fade)" rx="12"/>
+</svg>
 ---
 
 ### Irtiza Khan Labib
