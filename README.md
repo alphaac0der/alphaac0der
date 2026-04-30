@@ -1,5 +1,13 @@
 <div align="center">
-<img src="https://postimg.cc/PCpX1DHT" alt="Alt text">
+
+<br>
+<p dir="rtl" align="center" style="font-size:26px; letter-spacing:2px;">
+وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ
+</p>
+<p align="center"><i>"And that there is not for man except that for which he strives."</i><br>
+<sub>— Surah An-Najm, 53:39</sub></p>
+<br>
+
 ---
 
 ### Irtiza Khan Labib
